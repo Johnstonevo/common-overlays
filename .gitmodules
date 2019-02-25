@@ -1,0 +1,3 @@
+[submodule "nosh01"]
+	path = nosh01
+	url = https://github.com/nosh01/retroarch-overlays.git
